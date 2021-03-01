@@ -1,0 +1,22 @@
+.mainContainer {
+  min-height: 92vh;
+  height: 100%;
+  width: 820px;
+  background-color: rgb(212, 121, 121);
+
+  display: flex;
+  justify-content: center;
+}
+
+.textArea {
+  outline: none;
+  background: blueviolet;
+  color: white;
+  border: none;
+  font-size: 20px;
+
+  margin: 20px;
+  width: 100%;
+  resize: none;
+  overflow: hidden;
+}
